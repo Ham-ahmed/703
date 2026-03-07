@@ -1,7 +1,7 @@
 #!/bin/sh
 #############################################
-# AISubtitles Plugin Installer for Enigma2
-# Version: 3.0
+# AiTranslate Plugin Installer for Enigma2
+# Version: 2.8
 # Author: HAMDY_AHMED
 # Improved: Added Enigma2 restart after successful installation
 ############################################
@@ -17,7 +17,7 @@ WHITE='\033[1;37m'
 NC='\033[0m' # No Color
 
 # Script configuration
-PLUGIN_NAME="AISubtitles"
+PLUGIN_NAME="AiTranslate"
 VERSION="2.8"
 GITHUB_RAW="https://raw.githubusercontent.com/Ham-ahmed/703/refs/heads/main"
 # Try different possible package names
